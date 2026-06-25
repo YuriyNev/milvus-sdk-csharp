@@ -15,7 +15,7 @@ C# SDK for [Milvus](https://github.com/milvus-io/milvus).
 **Supported Net versions:**
 * .NET Core 2.1+
 * .NET Framework 4.6.1+
-
+* x
 **[NuGet](https://www.nuget.org/packages/Milvus.Client/)**
 
 Milvus.Client is delivered via NuGet package manager.
